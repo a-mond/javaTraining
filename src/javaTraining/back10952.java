@@ -1,3 +1,5 @@
+// 백준 10952 반복문 while
+
 package javaTraining;
 
 import java.util.Scanner;
