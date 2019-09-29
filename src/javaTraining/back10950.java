@@ -1,5 +1,4 @@
 //백준 10950
-//재업로드
 package javaTraining;
 
 import java.util.Scanner;
